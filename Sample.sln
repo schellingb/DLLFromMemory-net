@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}") = "Sample", "Sample.csproj", "{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release35|Any CPU = Release35|Any CPU
+		Release35|x64 = Release35|x64
+		Release35|x86 = Release35|x86
+		Release45|Any CPU = Release45|Any CPU
+		Release45|x64 = Release45|x64
+		Release45|x86 = Release45|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x64.ActiveCfg = Debug|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x64.Build.0 = Debug|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x86.ActiveCfg = Debug|x86
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Debug|x86.Build.0 = Debug|x86
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|Any CPU.ActiveCfg = Release35|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|Any CPU.Build.0 = Release35|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|x64.ActiveCfg = Release35|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|x64.Build.0 = Release35|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|x86.ActiveCfg = Release35|x86
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release35|x86.Build.0 = Release35|x86
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|Any CPU.ActiveCfg = Release45|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|Any CPU.Build.0 = Release45|Any CPU
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|x64.ActiveCfg = Release45|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|x64.Build.0 = Release45|x64
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|x86.ActiveCfg = Release45|x86
+		{FFFFFFFF-FFFF-4FFF-FFFF-FFFFFFFFFFFF}.Release45|x86.Build.0 = Release45|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
